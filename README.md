@@ -204,6 +204,14 @@ exploit
 ![im1](https://github.com/Sonakhach/project-3/blob/main/Screenshot_2024-12-28_01_54_32.png)
 ![im1](https://github.com/Sonakhach/project-3/blob/main/Screenshot_2024-12-28_02_01_10.png)
 
+In examples above I got root  with samba and Java RMI Service vulnerability
+
+![samba](https://github.com/user-attachments/assets/3a76de0c-2ff8-4a9a-8649-a8dfc39ca102)
+
+
+![java_rmi_vln](https://github.com/user-attachments/assets/78e61c48-9d52-4971-8767-4dd5624d150c)
+
+
 ##  After, try to write your own module, it doesn't have to do anything special, it just needs to load in msfconsole
 
 https://github.com/Sonakhach/project-3/blob/main/my_test_module_for_metasploitable_mashin.rb
